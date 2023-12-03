@@ -3,7 +3,7 @@ Repository for the paper "Learning Genomic Sequence Representations using Graph 
 
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; padding: 5px;">
-        <img width="500" alt="Self Supervised Task" src="https://github.com/ratschlab/projects2023-ms-thesis-genomic-gnn/assets/45125008/86bee952-3793-4112-afd3-dfd96e94cfbe">
+        <img width="500" alt="Self Supervised Task" src="https://github.com/ratschlab/genomic-gnn/assets/45125008/2decbe1f-b0a6-452a-9c11-ae6427c70136">
         <p><strong>Method overview: Self Supervised Task</strong></p>
     </div>
 </div>
