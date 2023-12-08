@@ -1,6 +1,5 @@
 # Learning Genomic Sequence Representations using Graph Neural Networks over De Bruijn Graph
-Repository for the paper "Learning Genomic Sequence Representations using Graph Neural Networks over De Bruijn Graph" in PyTorch. (LINK to https://arxiv.org soon!!!!)
-
+Repository for the paper ["Learning Genomic Sequence Representations using Graph Neural Networks over De Bruijn Graph"](https://arxiv.org/abs/2312.03865) in PyTorch. ([paper](https://arxiv.org/abs/2312.03865))
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; padding: 5px;">
         <img width="500" alt="Self Supervised Task" src="https://github.com/ratschlab/genomic-gnn/assets/45125008/2decbe1f-b0a6-452a-9c11-ae6427c70136">
