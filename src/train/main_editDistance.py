@@ -79,7 +79,7 @@ def main_editDistance(args, optuna_training=False):
         references_df, queries_df = dfs_list_inference[:2]
 
     models = []
-    if args.zero_shot_method:
+    if args.zero_shot_retrieval:
         for method in args.zero_shot_method.split(","):
             model = zero_shot_model(
                 embedding_layers_list,
